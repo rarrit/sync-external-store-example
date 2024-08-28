@@ -1,9 +1,8 @@
-# syncExternalStore 이해하기
+# React + Vite
 
-## 참고 자료
-- 1번: [https://ko.react.dev/reference/react/useSyncExternalStore](https://ko.react.dev/reference/react/useSyncExternalStore)
-- 2번: [https://ted-projects.com/react-use-sync-external-store](https://ted-projects.com/react-use-sync-external-store)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 필수 사항
-- 1번 자료의 `custom hook 으로 로직 추출하기` 실습
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
